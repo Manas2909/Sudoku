@@ -1,4 +1,4 @@
-#hardcodec board and Text type solver.
+#hardcoded board and Text type solver.
 # solver.py
 import pprint
 def solve(bo):
