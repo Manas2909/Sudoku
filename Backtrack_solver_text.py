@@ -107,5 +107,5 @@ pp.pprint(board)
 """
 print_board(board)
 solve(board)
-print("                                                    ")
+print("\n")
 print_board(board)
